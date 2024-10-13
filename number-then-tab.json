@@ -1,0 +1,85 @@
+{
+    "description": "Press number key and tab",
+    "manipulators": [
+        {
+            "from": { "key_code": "0" },
+            "to": [
+                { "key_code": "0" },
+                { "key_code": "tab" }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": { "key_code": "1" },
+            "to": [
+                { "key_code": "1" },
+                { "key_code": "tab" }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": { "key_code": "2" },
+            "to": [
+                { "key_code": "2" },
+                { "key_code": "tab" }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": { "key_code": "3" },
+            "to": [
+                { "key_code": "3" },
+                { "key_code": "tab" }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": { "key_code": "4" },
+            "to": [
+                { "key_code": "4" },
+                { "key_code": "tab" }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": { "key_code": "5" },
+            "to": [
+                { "key_code": "5" },
+                { "key_code": "tab" }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": { "key_code": "6" },
+            "to": [
+                { "key_code": "6" },
+                { "key_code": "tab" }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": { "key_code": "7" },
+            "to": [
+                { "key_code": "7" },
+                { "key_code": "tab" }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": { "key_code": "8" },
+            "to": [
+                { "key_code": "8" },
+                { "key_code": "tab" }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": { "key_code": "9" },
+            "to": [
+                { "key_code": "9" },
+                { "key_code": "tab" }
+            ],
+            "type": "basic"
+        }
+    ]
+}
